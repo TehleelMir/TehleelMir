@@ -1,5 +1,5 @@
 <div align="center">
-<h1 title="hehehe"> Hey 👋, I'm Tehleel!</h1>
+
 </div>
 <a href="https://www.linkedin.com/in/tehleel-mir-3a88b91bb/">
   <img align="left" alt="Zamran's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -22,15 +22,13 @@
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-**About Me!**
 
-- 👨🏽‍💻 Google Play Store Profile -> [Here](https://play.google.com/store/apps/dev?id=9086481429286206015&hl=en_IN&gl=US)
-- 🌱 [StackOverFlow](https://stackoverflow.com/users/14599955/tehleel-mir)
-- 🤔 Know more about me -> [website](https://tehleelmir.github.io/)
-- 💼 Degree in Bachelor of Computer Applications.
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [tehleelmir64@gmail.com](mailto:tehleelmir64@gmail.com).
-- 📝 [HackerRank](https://www.hackerrank.com/Tehleel) || [CodeWars](https://www.codewars.com/users/tehleelmir)
+
+- 👨🏽‍💻 [Google Play Profile](https://play.google.com/store/apps/dev?id=9086481429286206015&hl=en_IN&gl=US)
+-  [StackOverFlow](https://stackoverflow.com/users/14599955/tehleel-mir)
+-  [website](https://tehleelmir.github.io/)
+-  [tehleelmir64@gmail.com](mailto:tehleelmir64@gmail.com).
+-  [HackerRank](https://www.hackerrank.com/Tehleel) || [CodeWars](https://www.codewars.com/users/tehleelmir) || [LeetCode](https://leetcode.com/Tehleel/)
 
 
 **Languages and Tools:**  
